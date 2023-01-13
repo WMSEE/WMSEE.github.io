@@ -1,2 +1,2 @@
-# WMSEE.github.io
-website for WMSEE 
+# WMSEE
+Workshop on Modern Software Engineering

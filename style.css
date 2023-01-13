@@ -1,0 +1,50 @@
+.bg {
+    background-image: linear-gradient(to right, #667db6,#0082c8,#0082c8,#667db6);
+    border-radius: 0 !important;
+}
+
+.aprgb {
+    border-radius: 0 !important;
+}
+
+.bg h1, .bg p {
+    color:#fff;
+    text-shadow:1px 1px 2px rgba(0,0,0,0.3);
+}
+
+.navbar-brand {
+    font-size: 100%;
+    font-weight: bold;
+}
+
+tr.spaceUnder > td {
+  padding-bottom: 0.5rem;
+}
+
+.portrait {
+    width: 60px;
+    height: 60px;
+}
+
+.portrait-keynote {
+    width: 120px;
+    height: 120px;
+}
+
+
+.affiliation {
+    font-size: 80%;
+    margin-bottom: 0;
+}
+
+
+span.line {
+    display: inline-block;
+}
+
+a.dotted-underline {    
+    border-bottom: 1px dotted #fff;
+    text-decoration: none;
+}
+
+
