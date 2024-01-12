@@ -114,11 +114,3 @@ a.dotted-underline {
   .agenda dd:nth-child(10) {
     background: #7a28e6;
   }
-
-  .jumbotron {
-    background-image:url("header.jpg");
-    background-repeat: no-repeat;
-
-  background-size: contain;
-    /* max-width: 50%; */
-  }
