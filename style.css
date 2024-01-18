@@ -122,3 +122,9 @@ a.dotted-underline {
   background-size: contain;
     /* max-width: 50%; */
   }
+
+  .support{
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+  }
