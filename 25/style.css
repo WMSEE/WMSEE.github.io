@@ -114,3 +114,17 @@ a.dotted-underline {
   .agenda dd:nth-child(10) {
     background: #7a28e6;
   }
+
+  .jumbotron {
+    background-image:url("img/delft_header.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    /* max-width: 50%; */
+  }
+
+  .support{
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+  }
